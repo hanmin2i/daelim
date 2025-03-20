@@ -1,0 +1,4 @@
+3주차
+1교시
+IDE(파이참) GIT bash 터미널 연결
+Settings -> Tools -> Terminal
