@@ -6,3 +6,6 @@ bash 선택
 git 명령어
 remote -v 원격 리포지터리 내용 확인
 .gitignore 이해 대림 폴더의 수정파일 감지
+git clone git파일 코드 해당 배쉬 파일 안에 새로운 파일 생성
+git clone git파일 코드 . 해당 배쉬파일안에 바로 생성
+git remote remove origin - origin을 삭제해줌
