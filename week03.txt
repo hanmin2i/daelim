@@ -2,3 +2,7 @@
 1교시
 IDE(파이참) GIT bash 터미널 연결
 Settings -> Tools -> Terminal
+bash 선택
+git 명령어
+remote -v 원격 리포지터리 내용 확인
+.gitignore 이해 대림 폴더의 수정파일 감지
