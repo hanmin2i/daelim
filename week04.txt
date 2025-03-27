@@ -1,8 +1,10 @@
 4주차
 1교시
-comflict
+comflict 해결방법
 
 j 아래 k 위에 q빠져나가기
+
+git 명령어
 2교시
 
 3교시
