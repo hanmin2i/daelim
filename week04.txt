@@ -10,3 +10,8 @@ log -- oneline --graph
 conflict 복습
 
 3교시
+파이썬 함수 
+파이참 ide상에서 conflict 해결
+
+git pull
+git fetch 
