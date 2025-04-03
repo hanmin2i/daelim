@@ -10,3 +10,4 @@ checkout <해시코드 전체 또는 해시코드 7자리>
 checkout -
 branch -M
 git remote add origin https://github.com/hanmin2i/daelim
+push -u origin main
