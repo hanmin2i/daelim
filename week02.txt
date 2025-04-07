@@ -1,13 +1,16 @@
 2주차
-1교시 git 설치		 
+1교시 git 설치
 2교시 git 명령어
-status
-init
-add < 파일명>
-commit -m "커밋메세지"
-log
-checkout <해시코드 전체 또는 해시코드 7자리>
+status 현재 깃의 변경사항 확인 
+init  깃 레포지토리 생성
+add <파일명> 디렉토리상의 변경 내용을 스테이지 영역에 추가하는 명령어
+commit -m "커밋메세지" git에 저장 
+log 깃 로그 확인 
+checkout <해시코드 전체 또는 해시코드 7자리> 해당 커밋의 파일을 현재 디렉토리로 가져옴
 checkout -
-branch -M
-git remote add origin https://github.com/hanmin2i/daelim
+
+branch -M main 코드 복사후 원래 코드에 영향 없이 사용 가능하게 해줌 
+git bash에서 기본 브랜치를 master에서 main으로 바꿔 주기 
+
+remote add origin https://github.com/사용자아이디/원격리포지토리이름.git
 push -u origin main

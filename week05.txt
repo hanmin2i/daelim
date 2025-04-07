@@ -6,7 +6,8 @@
 pull request
 
 fork로 가져오고 클론으로 파일을 만든다
-origin을 바꿔준후 커밋을해 리퀘스트를 한다
+origin을 바꿔준후 커밋을해 리퀘스트를 한다 -> git remote remove origin 후 remote add origin 내 원격 레포지토리 주소 그후 
+git push -u origin main 그러면 포크로 파일 복제완성
 3주차
  git 명령어
 파이썬 함수 깃에 올라가있는거
