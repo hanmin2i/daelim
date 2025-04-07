@@ -1,7 +1,7 @@
 3주차
 1교시
 IDE(파이참) GIT bash 터미널 연결
-Settings -> Tools -> Terminal
+Settings -> Tools -> Terminal -> shell path
 bash 선택
 git 명령어
 
@@ -9,6 +9,7 @@ git 명령어
 remote -v 원격 리포지터리 내용 확인
 cat명령어
 .gitignore 이해 대림 폴더의 수정파일 감지 local에서만 보고 원격으로는 보내지않음
+파이참 소수 판정 프로그램 
 
 3교시
 git clone git파일 코드 해당 배쉬 파일 안에 새로운 파일 생성
