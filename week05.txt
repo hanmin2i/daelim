@@ -1,10 +1,18 @@
 1교시
 
-컴플리트 , fork
+pull : 원격저장소의 변경사항을 로컬로 옮겨와 병합
+clone : 원격 저장소의 내용을 그대로 폴더로 복사
+fork
+fork는 다른 사람의 Github repository에서 내가 어떤 부분을 수정하거나 추가 기능을 넣고 싶을 때 
+해당 respository를 내 Github repository로 그대로 복제하는 기능이다
+fork로 만든 저장소는 원본(가져온 리포지토리)와 연결되있다
 
 2주차
 pull request
+fork로 가져온 내용을 원본 레포지토리에 변경을 하고싶으면 pr을 신청 -> 관리자가 승인을 하면 내 코드가 commit, merge가 되어 반영 
+승인 전까지는 내 fork 리포지토리만 	변경 가능
 
+fork 하는법 
 fork로 가져오고 클론으로 파일을 만든다
 origin을 바꿔준후 커밋을해 리퀘스트를 한다 -> git remote remove origin 후 remote add origin 내 원격 레포지토리 주소 그후 
 git push -u origin main 그러면 포크로 파일 복제완성
