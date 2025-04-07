@@ -14,3 +14,5 @@ git bash에서 기본 브랜치를 master에서 main으로 바꿔 주기
 
 remote add origin https://github.com/사용자아이디/원격리포지토리이름.git
 push -u origin main
+origin이라는 리모트 레포지토리에 main브랜치 생성 로컬 레포지토리의 내용을 리모트 레포지토리로 보내라
+-u옵션은 set -upstrem의 줄임말으로 로컬이 항상 리모트를 추적하도록함 이때문에 git push만 써도 리모트 리포지토리에 내용이 올라감

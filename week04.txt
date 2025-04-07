@@ -1,17 +1,20 @@
 4주차
 1교시
-comflict 해결방법
+conflict 해결방법 - 두 브랜치의 동일한 파일에 상반된 내용이 있다 
+- git merge 현재파일의 내용을 이전 버전과 동기화 
+충돌이 발생한 해당 파일에 << == >> 사이의 내용 수정 
 
 j 아래 k 위에 q빠져나가기
 
+git log --oneline 커밋 내역 간단하게 보기 
 git 명령어
 2교시
-log -- oneline --graph
+log -- oneline --graph 그래프로 같이 보기
 conflict 복습
 
 3교시
 파이썬 함수 
 파이참 ide상에서 conflict 해결
 
-git pull
-git fetch 
+git pull : 원격 저장소에 있는 프로젝트의 변경사항을 그대로 로컬저장소에 옮겨와 자동으로 병합
+git fetch : 원격저장소에 있는 프로젝트의 변경사항을 가져오기만 한 후 병합은 따로함ㄴ
